@@ -8,6 +8,5 @@ spec:
    server: https://kubernetes.default.svc
  project: default
  source:
-   path: /
    repoURL: https://github.com/silviu-suhoverschi/argocd-kustomize.git
    targetRevision: main
